@@ -14,11 +14,6 @@ Repositori ini terstruktur dalam beberapa direktori sesuai dengan mata kuliahnya
 - **Soal**: Berisi kumpulan soal-soal ujian, tugas, atau latihan selama perkuliahan.
 - **Solusi**: Opsional, berisi solusi dari soal-soal yang disediakan.
 
-
-### Lisensi
-
-Repositori ini dilisensikan di bawah [MIT License](LICENSE).
-
 ### Kontak
 
 Jika Anda memiliki pertanyaan, saran, atau ingin berdiskusi lebih lanjut, jangan ragu untuk menghubungi kami melalui email [jawirtech@email.com](mailto:jawirtech@email.com).
