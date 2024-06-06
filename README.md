@@ -1,6 +1,6 @@
-# Kuliah Jawir
+# J-TECH-KULIAH
 
-Selamat datang di repositori **Kuliah Jawir**!
+Selamat datang di repositori **J-Tech-Kuliah**!
 
 ### Deskripsi
 
@@ -18,4 +18,4 @@ Repositori ini terstruktur dalam beberapa direktori sesuai dengan mata kuliahnya
 
 Jika Anda memiliki pertanyaan, saran, atau ingin berdiskusi lebih lanjut, jangan ragu untuk menghubungi kami melalui email [jawirtech@email.com](mailto:jawirtech@email.com).
 
-Terima kasih telah menggunakan repositori **Kuliah Jawir**! Semoga bermanfaat.
+Terima kasih telah menggunakan repositori **J-Tech-Kuliah**! Semoga bermanfaat.
