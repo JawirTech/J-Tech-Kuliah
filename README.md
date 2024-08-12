@@ -32,5 +32,5 @@ Kami dari J-tech (Jawir Technology) pada 2 semester awal di Fasilkom UI merasaka
 
 
 Jika ada pertanyaan bisa hubungi kontak di bawah:
-- Arzaka
-line: shakesprearesass / insta: @arzakaraffan
+- Arzaka:
+    line: shakesprearesass / insta: @arzakaraffan
